@@ -1,0 +1,10 @@
+
+streamlit
+google-genai
+python-dotenv
+pandas
+matplotlib
+sqlalchemy
+psycopg[binary]
+pypdf
+bcrypt
